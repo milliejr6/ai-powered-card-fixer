@@ -61,6 +61,13 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				pricing: {
+					success: 'hsl(var(--pricing-success))',
+					'success-foreground': 'hsl(var(--pricing-success-foreground))',
+					popular: 'hsl(var(--pricing-popular))',
+					'popular-foreground': 'hsl(var(--pricing-popular-foreground))',
+					shadow: 'hsl(var(--pricing-shadow))'
 				}
 			},
 			borderRadius: {
